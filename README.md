@@ -1,5 +1,7 @@
 Hello! I am a seasoned developer with over 7 years of experience building software solutions from design, development, through deployment using web technologies, including but not limited to Angular, Node.js, TypeScript/JavaScript, HTML, CSS, and more.
 
+Feel free to click through my pinned repos to see examples (with screenshots) of my recreational work!
+
 <!--
 **palaklal/palaklal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="150" height="150" alt="aws-certified-ai-practitioner" src="https://github.com/user-attachments/assets/584a3515-d3aa-4a7b-bdfd-32dbe56a017d" />
+<img width="50" height="50" alt="aws-certified-ai-practitioner" src="https://github.com/user-attachments/assets/584a3515-d3aa-4a7b-bdfd-32dbe56a017d" />
